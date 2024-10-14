@@ -6,7 +6,7 @@ My name is **SicilyQin**, hailing from the picturesque Hunan, China. 🏞️
 
 - 👨‍💻 **Occupation**: I am a passionate learner of programming, aspiring to become an independent game developer.
 - 🌐 **Languages**: My repertoire includes but is not limited to C/C++, Lua, HTML, CSS...
-- 💻 **Editors**: My favorite editors are Neovim, VSCode, and Obsidian.
+- 💻 **Editors**: My favorite editors are VSCode, and Obsidian.
 - 🖥️ **Operating Systems**: I primarily work on Arch Linux and Windows systems.
 
 ## 📚 Learning Plan
