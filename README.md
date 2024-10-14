@@ -1,5 +1,8 @@
-# 👋 Hello There!
 
+<img src="https://github.com/SicilyQin/SicilyQin/blob/main/me.svg" style="width: 100%" />
+
+-------------
+# 👋 Hello There!
 My name is **SicilyQin**, hailing from the picturesque Hunan, China. 🏞️
 
 ## 🥳 About Me
