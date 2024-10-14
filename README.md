@@ -1,6 +1,6 @@
 # 👋 Hello There!
 
-My name is **xiaoCRQ**, hailing from the picturesque Hunan, China. 🏞️
+My name is **SicilyQin**, hailing from the picturesque Hunan, China. 🏞️
 
 ## 🥳 About Me
 
@@ -19,10 +19,10 @@ My name is **xiaoCRQ**, hailing from the picturesque Hunan, China. 🏞️
   
 ## 🔗 My social links
 
-- 📺️ **Bilibili**: [小CRQ](https://space.bilibili.com/449655435?spm_id_from=333.999.0.0)
+- 📺️ **Bilibili**: [青墨影曦](https://space.bilibili.com/430824400?spm_id_from=333.1007.0.0)
 ## ✨ My Github stats
 
-| [![xiaoCRQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoCRQ&show_icons=true&count_private=true)](https://github.com/xiaoCRQ)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoCRQ&layout=compact)](https://github.com/xiaoCRQ) |
+| [![SicilyQin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SicilyQin&show_icons=true&count_private=true)](https://github.com/SicilyQin)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SicilyQin&layout=compact)](https://github.com/SicilyQin) |
 | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
